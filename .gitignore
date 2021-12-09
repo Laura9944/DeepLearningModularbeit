@@ -1,5 +1,6 @@
 COCO/
 COCO_noise/
+COCO_crop/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
